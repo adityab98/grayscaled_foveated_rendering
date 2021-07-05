@@ -1,4 +1,4 @@
-#Abstract
+## Abstract
 
 Cloud gaming allows users without powerful systems
 to play high-end games. However, these platforms make a
